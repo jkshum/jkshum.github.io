@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Jacky Shum
+tagline:          我的五餅二魚
+url:              https://jkshum.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Jacky Shum
+  url:            https://
+  email:          
 
 # Custom vars
 version:          1.0.0
